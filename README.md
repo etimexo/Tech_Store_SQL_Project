@@ -1,3 +1,5 @@
+# Tech Store SQL Analysis
+___
 # 📌 Project Overview
 
 This project involves analyzing a retail business's database to extract meaningful insights and answer real-world business questions. The data includes customer information, orders, payments, and products.
@@ -5,15 +7,10 @@ This project involves analyzing a retail business's database to extract meaningf
 ## 🗃️ Dataset Description
 
 The database consists of the following tables:
-
 credit_card_data - Contains information about customer credit card usage.
-
 customerinfo - Stores details about customers, including their city, gender, and personal information.
-
 payments - Tracks customer payment transactions.
-
 orders - Holds records of customer orders, including order quantity and date.
-
 products - Lists product details such as unit price, category, and descriptions.
 
 #### 📂 Database Setup & Creation of Tables
@@ -92,37 +89,21 @@ Query Result:
 
 # 📌 Key Insights
 
-The top-spending customers were identified to help with targeted marketing campaigns.
+1. The top-spending customers were identified to help with targeted marketing campaigns.
+2. The cities generating the highest revenue can be prioritized for expansion or promotions.
+3. The best-selling products highlight high-demand inventory items.
+4. Customers with unpaid orders need follow-ups for payment collection.
+5. Understanding the distribution of orders per category helps in optimizing stock levels.
+6. Revenue analysis by product category allows businesses to focus on high-margin products.
+7. Analyzing revenue by gender helps in customizing marketing strategies.
 
-The cities generating the highest revenue can be prioritized for expansion or promotions.
-
-The best-selling products highlight high-demand inventory items.
-
-Customers with unpaid orders need follow-ups for payment collection.
-
-Understanding the distribution of orders per category helps in optimizing stock levels.
-
-Revenue analysis by product category allows businesses to focus on high-margin products.
-
-Analyzing revenue by gender helps in customizing marketing strategies.
-
-🔗 Future Enhancements
-
-Predictive Analysis: Implement machine learning to predict customer spending behavior.
-
-Customer Segmentation: Classify customers based on spending habits.
-
-Time-Series Analysis: Analyze revenue trends over different months to optimize sales strategy.
-
-📌 How to Use This Project
-
-Clone the repository.
-
-Run the SQL queries in a PostgreSQL or MySQL environment.
-
-Modify queries based on business needs.
-
-Use the insights to make data-driven decisions.
-
-Author: Obisesan Elijah Timilehin
+# 📌 How to Use This Project
+- Clone the repository.
+- Run the SQL queries in a PostgreSQL or MySQL environment.
+- Modify queries based on business needs.
+- Use the insights to make data-driven decisions.
+___
+# Author: Obisesan Elijah Timilehin
+## [LinkedIn Profile](www.linkedin.com/in/teoso)
+## [Mail Me](elijahobisesan01@gmail.com)
 
